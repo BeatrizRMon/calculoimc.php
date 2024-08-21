@@ -1,2 +1,2 @@
-# calculoimc.php
+# PTI Linguagens de Servidor
 PTI Linguagens de Servidor
